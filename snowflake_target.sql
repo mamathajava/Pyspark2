@@ -1,1 +1,2 @@
-select * from customers
+select * from customers;
+select count(*) from customers;
